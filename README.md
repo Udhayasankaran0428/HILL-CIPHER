@@ -71,4 +71,4 @@ return 0;
 
 
 ## RESULT:
-ThisThe program is executed successfully.
+The program is executed successfully.
