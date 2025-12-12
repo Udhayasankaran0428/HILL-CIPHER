@@ -35,7 +35,7 @@ int main(void){
     char s[64];
     int i,j,t;
 
-    printf("Plain (3 letters): ");
+    printf("Plain letters: ");
     if(!fgets(s,sizeof s,stdin)) return 0;
     for(i=0;i<3;i++){
         char ch = toupper((unsigned char)(s[i]?s[i]:'A'));
